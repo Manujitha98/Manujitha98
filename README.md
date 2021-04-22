@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manujitha98 AKA your friendly neighborhood web dev student
 - 👀 I’m interested in pretty much anything that tickels my fancy, from a sick website to some cool Chess Board AI o_o
-- 🌱 I’m currently learning ... JS / AJAX / React / PHP 
+- 🌱 I’m currently learning ... JS / AJAX / React / PHP and most recently, Machine Learning with Python and Keras.
 - 💞️ I’m looking to collaborate on ... Web-Application Projects!
 - 📫 How to reach me ... hmu on manujithaperera@gmail.com
 
