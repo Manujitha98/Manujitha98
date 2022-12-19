@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manujitha98 AKA your friendly neighborhood software engineer
 - 👀 I’m interested in pretty much anything that tickels my fancy, from a sick website to some cool Chess Board AI o_o
-- 🌱 I’m currently learning ... Angular , SpringBoot and Dockerizatio.
+- 🌱 I’m currently learning ... Angular , SpringBoot and Dockerization.
 - 💞️ I’m looking to collaborate on ... Web-Application Projects!
 - 📫 How to reach me ... hmu on manujithaperera@gmail.com
 
